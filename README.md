@@ -1,2 +1,2 @@
-# Music-app
-Music app
+# Music-App
+Music App
